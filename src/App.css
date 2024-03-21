@@ -1,0 +1,35 @@
+.wetherBG{
+  background: url("./Q.jpg");
+  height: 50vh;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+/* .bbb{
+  background-color:rgb(163, 189, 241);
+} */
+.heading{
+  color: white;
+  font-weight: 700;
+}
+.wetherresultbox{
+  background-color: white;
+  margin: auto;
+  width: 400px;
+  height: 450px;
+ }
+ .wicon{
+  width: 130px;
+  height: 130px;
+  margin-top: 2rem;
+ }
+ .wcity{
+  font-size: 35px;
+ }
+ .wt{
+  font-size: 45px;
+ }
